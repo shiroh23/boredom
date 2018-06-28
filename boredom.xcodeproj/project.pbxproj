@@ -304,6 +304,7 @@
 				09DF6A0F20E50AA20033B8C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
